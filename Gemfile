@@ -43,7 +43,6 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'devise'
 gem 'omniauth'
 gem 'omniauth-shibboleth'
 gem 'passenger'
